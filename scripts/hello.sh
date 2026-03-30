@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is running from an external script file!
+echo "This is running from an external script file!"
